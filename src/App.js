@@ -4,7 +4,6 @@ import {Route, Switch} from 'react-router-dom'
 import Popular from './components/Popular'
 import TopRated from './components/TopRated'
 import Upcoming from './components/Upcoming'
-import SearchQuery from './components/SearchQuery'
 
 import SearchMoviesContext from './context/SearchMoviesContext'
 

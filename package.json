@@ -66,5 +66,18 @@
       "Firefox ESR",
       "not ie < 11"
     ]
-  }
+  },
+  "description": "Develop an application based on video-on-demand websites that provides an extensive database of available content. It should consist of various pages and a global navbar.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadhana631/Moviedatabaseapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadhana631/Moviedatabaseapp/issues"
+  },
+  "homepage": "https://github.com/sadhana631/Moviedatabaseapp#readme"
 }
